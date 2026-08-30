@@ -1,0 +1,5 @@
+.env
+taskmaster-adk/.env
+venv/
+.venv/
+__pycache__/
