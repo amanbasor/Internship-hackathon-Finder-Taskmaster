@@ -10,7 +10,7 @@ Taskmaster is an autonomous multi-agent AI system built for the **All Things Age
 > Interactive Dashboard**: A sleek dark-mode interface built with Streamlit.
 > Persistence Layer**: Seamlessly syncs verified student records to Google Cloud Firestore.
 
-##UML DIAGRAM
+##Activity Diagram
 ![Taskmaster UI Screenshot](app_screenshot.png)
 
 ### Agents Breakdown
